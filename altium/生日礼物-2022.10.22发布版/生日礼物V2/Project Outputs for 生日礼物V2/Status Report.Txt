@@ -1,0 +1,12 @@
+Output: NC Drill Files
+Type  : NC Drill
+From  : PCB Document [生日礼物V2.PcbDoc]
+   Generated File[生日礼物V2.TXT]
+   Generated File[生日礼物V2.LDP]
+   Generated File[生日礼物V2.DRR]
+
+
+Files Generated   : 3
+Documents Printed : 0
+
+Finished Output Generation At 22:58:08 On 2022/10/23
